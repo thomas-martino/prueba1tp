@@ -6,7 +6,7 @@ int main(void) {
 
 	setbuf(stdout,NULL);
 
-	puts("!!!genial!!!");
+	puts("!!!Excelente!!!");
 
 
 	return EXIT_SUCCESS;
